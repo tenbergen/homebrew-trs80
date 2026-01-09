@@ -1,4 +1,4 @@
-| ![Homebrew TRS-80 case](https://img.youtube.com/vi/_C0M3T0IJHc/0.jpg)  | ![Retro Byte Meister Logo](https://retrobytemeister.com/cdn/shop/files/retrobytemeister_583bf729-68c3-4c84-9ec5-2905dba2858f.jpg?width=300&v=1755529210) | ![Homebrew TRS-80 inside](https://img.youtube.com/vi/zD7jiOm4ZC8/0.jpg)|
+| ![Homebrew TRS-80 case](img/case.jpg?width=100)  | ![Retro Byte Meister Logo](https://retrobytemeister.com/cdn/shop/files/retrobytemeister_583bf729-68c3-4c84-9ec5-2905dba2858f.jpg?width=800&v=1755529210) | ![Homebrew TRS-80 inside](img/IMG_3182.jpeg?width=100)|
 | ------------- | ------------- | ------------- |
 
 # Homebrew TRS-80 Restoration
